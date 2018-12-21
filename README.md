@@ -1,5 +1,5 @@
 
-Welcome to your CDK Java project!
+Welcome to your CDK Java project!xxx
 
 It is a Maven-based project, so you can open this directory with any Maven-compatible Java IDE,
 and you should be able to build and run tests from your IDE.
