@@ -5,9 +5,7 @@ pipeline {
     stages {
       stage('cdk deploy') {
         steps {
-          container('foo') {
             sh "cdk deploy"
-          }
 }
 }
 }
