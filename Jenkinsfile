@@ -5,7 +5,7 @@ pipeline {
     stages {
       stage('cdk deploy') {
         steps {
-            sh "cdk deploy"
+            sh "/usr/bin/cdk deploy"
 }
 }
 }
